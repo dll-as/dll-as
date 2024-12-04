@@ -69,6 +69,7 @@
   <a href="https://gitlab.com">
     <img src="https://skillicons.dev/icons?i=gitlab" />
   </a>
+  
   <a href="https://docker.com">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
