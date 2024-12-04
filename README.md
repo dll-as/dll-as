@@ -8,7 +8,7 @@
 <p>I am a dedicated and enthusiastic software engineer with a deep love for coding. Technology has always been my playground, and I thrive on the challenges of software development. I believe in the power of innovation and continuous learning to drive progress and create impactful solutions.</p>
 
 ## 📟 Languages, Database, Tools :
-<p align="center">
+<div>
   <a href="https://python.org">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
@@ -69,7 +69,6 @@
   <a href="https://gitlab.com">
     <img src="https://skillicons.dev/icons?i=gitlab" />
   </a>
-  
   <a href="https://docker.com">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
@@ -103,7 +102,7 @@
   <a href="https://atom-editor.cc">
     <img src="https://skillicons.dev/icons?i=atom" />
   </a>
-</p>
+</div>
 
 ## ⚡ My Journey :
 <p> My coding journey has been filled with exciting projects, collaborations, and continuous growth. From crafting elegant solutions to diving deep into complex algorithms, every line of code I write tells a story of determination and passion for creating meaningful software.</p>
