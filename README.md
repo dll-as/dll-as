@@ -99,9 +99,6 @@
   <a href="https://code.visualstudio.com">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-  <a href="https://atom-editor.cc">
-    <img src="https://skillicons.dev/icons?i=atom" />
-  </a>
 </div>
 
 ## ⚡ My Journey :
