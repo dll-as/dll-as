@@ -75,7 +75,7 @@ Since starting my coding journey at age 12, I've built a diverse portfolio of pr
 ## 📈 GitHub Stats
 <div align="center">
 
-  ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=dll-as&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+  ![milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=dll-as&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
   ![GitHub Streak](https://streak-stats.demolab.com/?user=dll-as&theme=github-dark-blue&hide_border=true)
 </div>
 
