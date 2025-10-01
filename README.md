@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  👋 Welcome! I'm Reza, a passionate 20-year-old software engineer from Iran with over 8 years of coding experience.
+  👋 Welcome! I'm milad, a passionate 20-year-old software engineer from Iran with over 8 years of coding experience.
   My journey in software development is driven by a love for solving complex problems, building innovative solutions,
   and continuously evolving in the ever-changing tech landscape.
 </p>
@@ -75,8 +75,8 @@ Since starting my coding journey at age 12, I've built a diverse portfolio of pr
 ## 📈 GitHub Stats
 <div align="center">
 
-  ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezatg&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=rezatg&theme=github-dark-blue&hide_border=true)
+  ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=dll-as&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=dll-as&theme=github-dark-blue&hide_border=true)
 </div>
 
 ## 📫 Let's Connect
