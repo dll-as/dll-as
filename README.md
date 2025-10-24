@@ -77,7 +77,7 @@ Since starting my coding journey at age 12, I've built a diverse portfolio of pr
 
   ![milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=dll-as&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
   ![GitHub Streak](https://streak-stats.demolab.com/?user=dll-as&theme=github-dark-blue&hide_border=true)
-  ![Dark snake](https://github.com/dll-as/dll-as/blob/master/assets/github-snake.svg)
+  ![Dark snake](https://github.com/dll-as/dll-as/blob/master/assets/github-snake-dark.svg)
 </div>
 
 ## 📫 Let's Connect
