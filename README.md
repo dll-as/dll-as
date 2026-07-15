@@ -10,12 +10,11 @@
   <img src="https://img.shields.io/badge/Software%20Engineer-🚀-blueviolet?style=flat-square" alt="Software Engineer Badge" />
   <img src="https://img.shields.io/badge/Age-20-brightgreen?style=flat-square" alt="Age Badge" />
   <img src="https://img.shields.io/badge/Location-Iran-FF5733?style=flat-square" alt="Location Badge" />
-  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-FF5733?style=flat-square" alt="Experience" />
 </p>
 
 
 <p align="center">
-  👋 Welcome! I'm milad, a passionate 20-year-old software engineer from Iran with over 8 years of coding experience.
+  👋 Welcome! I'm Milad, a software engineer from Iran passionate about backend development, distributed systems, and building strategy games with Go.
   My journey in software development is driven by a love for solving complex problems, building innovative solutions,
   and continuously evolving in the ever-changing tech landscape.
 </p>
