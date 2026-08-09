@@ -79,21 +79,6 @@ Since starting my coding journey at age 12, I've built a diverse portfolio of pr
   ![Dark snake](https://github.com/dll-as/dll-as/blob/master/assets/github-snake-dark.svg)
 </div>
 
-## 📫 Let's Connect
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's create something amazing together!
-
-<p align="center">
-  <a href="https://t.me/dll_as">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/tardgaah">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:YouSudo@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
   <b>Let's build something extraordinary together! 🚀</b>
 </p>
