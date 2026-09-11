@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  👋 Welcome! I'm Milad, a software engineer from Iran passionate about backend development, distributed systems, and building strategy games with Go.
+  👋 Welcome! I'm a software engineer from Iran passionate about backend development, distributed systems, and building strategy games with Go.
   My journey in software development is driven by a love for solving complex problems, building innovative solutions,
   and continuously evolving in the ever-changing tech landscape.
 </p>
